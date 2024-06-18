@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Cultura Libre</title>
+    <link>http://localhost:1313/culturalibre/tags/</link>
+    <description>Recent content in Tags on Cultura Libre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ES</language>
+    <lastBuildDate>Tue, 18 Jun 2024 14:58:02 -0300</lastBuildDate><atom:link href="http://localhost:1313/culturalibre/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navegación</title>
+      <link>http://localhost:1313/culturalibre/tags/navegaci%C3%B3n/</link>
+      <pubDate>Tue, 18 Jun 2024 14:58:02 -0300</pubDate>
+      
+      <guid>http://localhost:1313/culturalibre/tags/navegaci%C3%B3n/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Seguridad</title>
+      <link>http://localhost:1313/culturalibre/tags/seguridad/</link>
+      <pubDate>Tue, 18 Jun 2024 14:58:02 -0300</pubDate>
+      
+      <guid>http://localhost:1313/culturalibre/tags/seguridad/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tor</title>
+      <link>http://localhost:1313/culturalibre/tags/tor/</link>
+      <pubDate>Tue, 18 Jun 2024 14:58:02 -0300</pubDate>
+      
+      <guid>http://localhost:1313/culturalibre/tags/tor/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>TorProject</title>
+      <link>http://localhost:1313/culturalibre/tags/torproject/</link>
+      <pubDate>Tue, 18 Jun 2024 14:58:02 -0300</pubDate>
+      
+      <guid>http://localhost:1313/culturalibre/tags/torproject/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:1313/culturalibre/tags/docker/</link>
+      <pubDate>Tue, 18 Jun 2024 13:28:39 -0300</pubDate>
+      
+      <guid>http://localhost:1313/culturalibre/tags/docker/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

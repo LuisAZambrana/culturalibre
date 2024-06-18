@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cultura Libre</title>
+    <link>http://localhost:1313/culturalibre/post/</link>
+    <description>Recent content in Posts on Cultura Libre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ES</language>
+    <lastBuildDate>Tue, 18 Jun 2024 14:58:02 -0300</lastBuildDate><atom:link href="http://localhost:1313/culturalibre/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Navegar en la red Tor con TorProject</title>
+      <link>http://localhost:1313/culturalibre/post/navegar_en_la_red_tor_con_torproject/</link>
+      <pubDate>Tue, 18 Jun 2024 14:58:02 -0300</pubDate>
+      
+      <guid>http://localhost:1313/culturalibre/post/navegar_en_la_red_tor_con_torproject/</guid>
+      
+        <description>El Proyecto Tor Inc., se convirtió en una ONG 501 (c)(3) sin ánimo de lucro en 2006, pero la idea del “enrutamiento de cebolla” comenzó a mediados de los años noventa.
+Al igual que los usuarios de Tor, los desarrolladores, investigadores y fundadores que han hecho posible Tor son un grupo diverso de personas. Pero todas las personas que han estado involucradas en Tor están unidas por una creencia común: los usuarios de Internet deben tener acceso privado a una web sin censura.</description>
+      
+    </item>
+    
+    <item>
+      <title>Instalación de Docker</title>
+      <link>http://localhost:1313/culturalibre/post/instalaci%C3%B3n_de_docker/</link>
+      <pubDate>Tue, 18 Jun 2024 13:28:39 -0300</pubDate>
+      
+      <guid>http://localhost:1313/culturalibre/post/instalaci%C3%B3n_de_docker/</guid>
+      
+        <description>Instalación de Docker sobre gnulinux</description>
+      
+    </item>
+    
+  </channel>
+</rss>

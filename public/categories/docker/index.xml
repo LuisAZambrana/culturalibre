@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker on Cultura Libre</title>
+    <link>http://localhost:1313/culturalibre/categories/docker/</link>
+    <description>Recent content in Docker on Cultura Libre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2024 </copyright>
+    <lastBuildDate>Tue, 18 Jun 2024 12:38:50 -0300</lastBuildDate><atom:link href="http://localhost:1313/culturalibre/categories/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024 06 18 Instalación_de_Docker</title>
+      <link>http://localhost:1313/culturalibre/post/2024/2024-06-18-instalaci%C3%B3n_de_docker/</link>
+      <pubDate>Tue, 18 Jun 2024 12:38:50 -0300</pubDate>
+      
+      <guid>http://localhost:1313/culturalibre/post/2024/2024-06-18-instalaci%C3%B3n_de_docker/</guid>
+      <description>Instalación de docker #A continuación paso a paso para instalar docker. Ejecutar &amp;ldquo;linea por linea&amp;rdquo;
+sudo apt update &amp;amp;&amp;amp; sudo apt upgrade sudo apt install curl python3-pip apt-transport-https ca-certificates software-properties-common sudo apt install docker.io sudo usermod -aG docker tuusuario sudo systemctl enable --now docker docker --version sudo curl -L &amp;quot;https://github.com/docker/compose/releases/download/2.3.3/docker-compose-$(uname -s)-$(uname -m)&amp;quot; -o /usr/local/bin/docker-compose sudo chmod +x /usr/local/bin/docker-compose docker-compose --version Si bien no hace falta es recomendable reiniciar el servidor</description>
+      
+    </item>
+    
+  </channel>
+</rss>

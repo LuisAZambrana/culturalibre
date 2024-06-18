@@ -1,0 +1,49 @@
+baseURL = 'https://luisazambrana.github.com/culturalibre'
+languageCode = 'ES'
+title = 'Cultura Libre'
+theme = 'anatole'
+displayMode = 'dark'
+[params]
+title = "Cultura Libre"
+author = "Luis Zambrana"
+description = "Sitio que utilizo como ayuda memoria </br> y para compartir tutoriales de tecnología"
+profilePicture = "images/yo.png"
+enableEmoji = true 
+enableInlineShortcodes = true 
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/luis-zambrana-8138b5b9/"
+
+[[params.socialIcons]]
+icon = "fab fa-mastodon"
+title = "Mastodon"
+url = "https://mastodon.online/@lzambrana"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/LuisAZambrana"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "Infra"
+  weight = 300
+  identifier = "infraestructura"
+  url = "/categories/infraestructura/"
+
+  
